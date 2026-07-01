@@ -1,0 +1,12 @@
+pandas
+numpy
+geopandas
+matplotlib
+plotly
+scipy
+statsmodels
+scikit-learn
+jupyterlab
+ipykernel
+openpyxl
+pyarrow

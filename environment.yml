@@ -1,0 +1,17 @@
+name: blackmarble-recovery
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - geopandas
+  - matplotlib
+  - plotly
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - openpyxl
+  - pyarrow
