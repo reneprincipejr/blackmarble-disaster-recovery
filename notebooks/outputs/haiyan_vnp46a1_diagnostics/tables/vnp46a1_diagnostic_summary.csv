@@ -1,0 +1,11 @@
+Diagnostic,Value,Status,Interpretation
+Calendar completeness,180 of 180 days,Pass,Missing band sets create unobservable calendar days before quality screening.
+Physical-value ranges,Maximum out-of-range pixels: 0.0000%,Pass,Large violations usually indicate an incorrect scale factor or unmasked fill values.
+Median strict observability,2.89%,Descriptive,This is the median land area directly supported by the strict VNP46A1 observation screen.
+Low-observability days,107 days below 10%,Review,These dates cannot support spatially representative radiance interpretation.
+Cloud-dominated days,138 days above 50% cloudy,Descriptive,Cloud-driven missingness is part of the evidence and should not be interpolated silently.
+Moon–radiance association,Spearman ρ = 0.803,Review,Association indicates residual lunar influence in the at-sensor radiance.
+VZA–radiance association,Spearman ρ = 0.160,Limited association,Association is consistent with angular sensitivity and possible anisotropy.
+VZA–observability association,Spearman ρ = -0.049,Descriptive,This tests whether usable spatial coverage changes systematically with viewing geometry.
+UTC–observability association,Spearman ρ = 0.058,Descriptive,Acquisition-time variability may coincide with different granules or viewing configurations.
+Land/water classification stability,Maximum daily change: 4.575%,Review,Large changes indicate inconsistent support masks or changing quality-field availability.

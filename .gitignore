@@ -47,3 +47,8 @@ outputs/*
 Thumbs.db
 
 EOF
+# Large raster datasets
+*.tif
+*.tiff
+*.TIF
+*.TIFF

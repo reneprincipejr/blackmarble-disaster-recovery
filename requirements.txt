@@ -10,3 +10,8 @@ jupyterlab
 ipykernel
 openpyxl
 pyarrow
+rasterio
+xarray
+zarr<3
+numcodecs
+tqdm
