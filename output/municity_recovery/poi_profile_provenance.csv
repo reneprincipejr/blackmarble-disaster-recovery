@@ -1,0 +1,13 @@
+unit_name,unit_type,aggregation_days,ghsl_mask,ghsl_classes,sc_threshold_pct,baseline_start,baseline_end,baseline_blocks,minimum_baseline_observations,fixed_baseline_pixels,median_baseline_coverage_pct
+Tacloban City Centre,POI 5×5,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,16,0.0
+Tacloban City Centre,POI 5×5,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,16,0.0
+Ormoc City Centre,POI 5×5,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,19,0.0
+Ormoc City Centre,POI 5×5,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,19,0.0
+Baybay City Centre,POI 5×5,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,6,0.0
+Baybay City Centre,POI 5×5,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,6,0.0
+Palo Centre,POI 5×5,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,25,0.0
+Palo Centre,POI 5×5,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,25,60.0
+Alangalang Centre,POI 5×5,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,17,0.0
+Alangalang Centre,POI 5×5,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,17,88.23529411764706
+Guiuan Centre,POI 5×5,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,8,0.0
+Guiuan Centre,POI 5×5,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,15,0.0

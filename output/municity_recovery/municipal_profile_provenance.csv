@@ -1,0 +1,23 @@
+unit_name,unit_type,aggregation_days,ghsl_mask,ghsl_classes,sc_threshold_pct,baseline_start,baseline_end,baseline_blocks,minimum_baseline_observations,fixed_baseline_pixels,median_baseline_coverage_pct
+Tacloban City,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,147,0.0
+Tacloban City,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,147,26.53061224489796
+Palo,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,102,0.0
+Palo,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,102,71.56862745098039
+Tolosa,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,24,0.0
+Tolosa,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,24,37.5
+Dulag,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,18,0.0
+Dulag,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,18,44.44444444444444
+Alangalang,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,30,0.0
+Alangalang,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,30,93.33333333333333
+Basey,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,34,0.0
+Basey,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,34,47.05882352941177
+Guiuan,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,20,0.0
+Guiuan,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,29,0.0
+Ormoc City,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,151,0.0
+Ormoc City,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,151,11.920529801324504
+Baybay City,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,66,0.0
+Baybay City,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,66,18.181818181818183
+Borongan City,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,45,0.0
+Borongan City,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,46,80.43478260869566
+Calbayog City,City/municipality,1,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,60,5,111,0.0
+Calbayog City,City/municipality,4,G2,"(23, 30)",10.0,2013-09-09,2013-11-07,15,3,111,56.75675675675676
