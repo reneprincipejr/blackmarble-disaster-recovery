@@ -1,0 +1,11 @@
+,Strict observable,Inclusive observable,Cloudy,QF_DNB = 0,Cloud-mask quality,Median |VZA|,UTC time,Moon illumination,Strict radiance,All-valid radiance
+Strict observable,180,180,180,180,180,180,180,180,137,180
+Inclusive observable,180,180,180,180,180,180,180,180,137,180
+Cloudy,180,180,180,180,180,180,180,180,137,180
+QF_DNB = 0,180,180,180,180,180,180,180,180,137,180
+Cloud-mask quality,180,180,180,180,180,180,180,180,137,180
+Median |VZA|,180,180,180,180,180,180,180,180,137,180
+UTC time,180,180,180,180,180,180,180,180,137,180
+Moon illumination,180,180,180,180,180,180,180,180,137,180
+Strict radiance,137,137,137,137,137,137,137,137,137,137
+All-valid radiance,180,180,180,180,180,180,180,180,137,180

@@ -1,0 +1,10 @@
+Flag,Mean_pct,Median_pct,Maximum_pct,Affected_days
+Substitute calibration,0.0,0.0,0.0,0
+Out of range,0.0,0.0,0.0,0
+Saturation,0.0,0.0,0.0,0
+Temperature not nominal,0.0,0.0,0.0,0
+Stray light,0.0,0.0,0.0,0
+Bowtie deleted,0.0,0.0,0.0,0
+Missing EV,0.0,0.0,0.0,0
+Calibration failure,0.0,0.0,0.0,0
+Dead detector,0.0,0.0,0.0,0
