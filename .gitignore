@@ -1,54 +1,11 @@
-# Python
-
-__pycache__/
-
-*.py[cod]
-
-.ipynb_checkpoints/
-
-# Virtual environments
-
+.DS_Store
+**/.DS_Store
 .venv/
 
-venv/
-
-env/
-
-# Local data
-
-datasets/*
-
+datasets/**
 !datasets/README.md
 
-# Large outputs
+output/
+outputs/
+playground_notebooks/
 
-outputs/*
-
-!outputs/figures/
-
-!outputs/figures/main/
-
-!outputs/figures/supplementary/
-
-!outputs/tables/
-
-!outputs/tables/main/
-
-!outputs/tables/supplementary/
-
-# Environment files
-
-.env
-
-# OS files
-
-.DS_Store
-
-Thumbs.db
-
-EOF
-# Large raster datasets
-*.tif
-*.tiff
-*.TIF
-*.TIFF
